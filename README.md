@@ -1,1 +1,3 @@
-# thai-romanization
+# Thai2Rom
+
+Deep learning thai romanization.
